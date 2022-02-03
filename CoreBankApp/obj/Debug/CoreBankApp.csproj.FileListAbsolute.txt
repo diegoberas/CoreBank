@@ -1,0 +1,312 @@
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.exe.config
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.exe
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.pdb
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Buffers.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Memory.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\EnvDTE.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\stdole.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Buffers.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Memory.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csprojAssemblyReference.cache
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmAgregarCliente.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmAgregarPerfil.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarADMI.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.BorrarCliente.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarCuenta.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarPerfil.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarPrestamo.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarTrans.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarCliente.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarCuenta.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarPerfil.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarPrestamo.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarTrans.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarUsuario.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearPrestamo.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearTrans.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearUsuario.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarADMI.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarCliente.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarCuenta.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarPerfil.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarPrestamo.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarTrans.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarUsuario.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmPagoPrestamo.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.frmPrincipal.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearCuenta.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCP.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCT.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCuenta.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReportePP.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReportePT.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteUsuarios.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.Login.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Properties.Resources.resources
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.GenerateResource.cache
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\RdlCompile.cache
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\RdlCompile.compiled
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.CoreCompileInputs.cache
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.CopyComplete
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.exe
+C:\Users\san\source\repos\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.pdb
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.exe.config
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.exe
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\CoreBankApp.pdb
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Buffers.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Memory.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\EnvDTE.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\stdole.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Buffers.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Memory.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.AssemblyReference.cache
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmAgregarCliente.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmAgregarPerfil.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarADMI.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.BorrarCliente.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarCuenta.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarPerfil.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarPrestamo.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBorrarTrans.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarCliente.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarCuenta.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarPerfil.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarPrestamo.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarTrans.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmBuscarUsuario.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearPrestamo.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearTrans.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearUsuario.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarADMI.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarCliente.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarCuenta.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarPerfil.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarPrestamo.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarTrans.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmEditarUsuario.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmPagoPrestamo.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.frmPrincipal.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmCrearCuenta.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCP.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCT.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteCuenta.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReportePP.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReportePT.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.frmReporteUsuarios.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Forms.Login.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.Properties.Resources.resources
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.GenerateResource.cache
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.csproj.CopyComplete
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.exe
+C:\Users\Diego Beras\Desktop\CoreBank1\CoreBankApp\obj\Debug\CoreBankApp.pdb
